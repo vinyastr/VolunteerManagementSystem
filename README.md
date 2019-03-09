@@ -9,3 +9,11 @@ Project for Application Engineering Development using Java - Volunteer Managemen
 4) Netbeans
 
 ### Teammates
+
+| Name | Email Address |
+| --- | --- |
+| Poojith Shankar Shetty |shetty.poo@husky.neu.edu|
+| Vinyas Kaushik Tumakunte Raghavendrarao|tumakunteraghaven.v@husky.neu.edu|
+| Prashanth Reddy |reddy.pra@husky.neu.edu|
+
+### 
